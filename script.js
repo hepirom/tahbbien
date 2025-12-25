@@ -1,7 +1,7 @@
 // Liste des citations et leurs auteurs
 const banqueCitations = [
   {
-    citation: "tTafadhali Khmadja",
+    citation: "Tafadhali Khmadja",
     auteur: "khmjiste",
   },
   {
@@ -9,7 +9,7 @@ const banqueCitations = [
     auteur: "Kmja",
   },
   {
-    citation: "Ta3rf",
+    citation: "Ta3rf ?",
     auteur: "Kmj-a",
   },
   {
@@ -17,10 +17,50 @@ const banqueCitations = [
     auteur: "Kmja",
   },
   {
-    citation:
-      "Toutes nos rêves peuvent devenir réalité si nous avons le courage de les poursuivre.",
-    auteur: "Walt Disney",
+    citation: "I'm glad you ask Kmja",
+    auteur: "Kmj",
   },
+  {
+    citation: "C'est des choses qu'elles arrivent",
+    auteur: "Les Carcassonnais",
+  },
+  {
+    citation: "Kmja, Toi, Moi, 17h ?",
+    auteur: "Kmj",
+  },
+  {
+    citation: "Fallait faire attention",
+    auteur: "Kmjiste de droite",
+  },
+  {
+    citation: "Tu m'en diras des petites nouvelles !",
+    auteur: "Kmja aux fourneaux",
+  },
+  {
+    citation: "C'est ça va...",
+    auteur: "Les tunisiens",
+  },
+  {
+    citation: "Cha 3meltou fihe",
+    auteur: "Nadia El Mansour",
+  },
+  {
+    citation: "Au contraire Kmj",
+    auteur: "Kmja tête-dure",
+  },
+  {
+    citation: "Tahbi je vais chasser ?",
+    auteur: "Kmj Eats",
+  },
+  {
+    citation: "This is fine",
+    auteur: "Le poisson frit",
+  },
+  {
+    citation: "No !",
+    auteur: "Le poisson prof",
+  },
+
   // Ajoute ici tes citations préférées
 ];
 
