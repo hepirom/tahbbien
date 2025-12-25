@@ -1,21 +1,20 @@
 // Liste des citations et leurs auteurs
 const banqueCitations = [
   {
-    citation:
-      "La vie, c’est comme une boîte de chocolats : on ne sait jamais sur quoi on va tomber.",
-    auteur: "Forrest Gump",
+    citation: "tTafadhali Khmadja",
+    auteur: "khmjiste",
   },
   {
-    citation: "Le bonheur est parfois caché dans l’inconnu.",
-    auteur: "Victor Hugo",
+    citation: "On fait une réunions ?",
+    auteur: "Kmja",
   },
   {
-    citation: "Rien n’est permanent, sauf le changement.",
-    auteur: "Héraclite",
+    citation: "Ta3rf",
+    auteur: "Kmj-a",
   },
   {
-    citation: "La simplicité est la sophistication suprême.",
-    auteur: "Léonard de Vinci",
+    citation: "Deber rassek",
+    auteur: "Kmja",
   },
   {
     citation:
